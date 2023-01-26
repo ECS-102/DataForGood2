@@ -1,0 +1,14 @@
+User Story D: As a community activist, I'd like to identify high needs communities who may be experiencing food shortages so that I can focus my team's work.
+
+The FoodAccess class processes and analyzes data about countries. Complete the FoodAccess class with:
+
+instance variables to store the data you want to analyze
+
+a constructor to initialize the instance variables
+
+method(s) to analyze the data to find the information needed
+
+Possible Extensions: I would like to know what aspects make a community high risk.
+
+Dataset: Countries and Territories
+

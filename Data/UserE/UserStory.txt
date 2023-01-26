@@ -1,0 +1,14 @@
+User Story E: As an advertising specialist, I want to identify the best basketball stadiums to advertise in so I can decide where to spend money for an upcoming campaign.
+
+The BasketballStadiums class processes and analyzes data about basketball stadiums. Complete the BasketballStadiums class with:
+
+instance variables to store the data you want to analyze
+
+a constructor to initialize the instance variables
+
+method(s) to analyze the data to find the information needed
+
+Possible Extensions: I have been told I can advertise in up to 5 arenas.
+
+Dataset: NBA Teams
+

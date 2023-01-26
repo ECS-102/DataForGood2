@@ -1,0 +1,16 @@
+User Story B: As an avian veterinary student, I want to identify groups of similar birds so I can study them for my final exams.
+
+The Birds class processes and analyzes data about the birds. Complete the Bird class with:
+
+instance variables to store the data you want to analyze
+
+a constructor to initialize the instance variables
+
+method(s) to analyze the data to find the information needed
+
+
+
+
+Possible Extensions: I would like to be quizzed on descriptors based on the bird.
+
+Dataset: 100 Birds of the World

@@ -1,0 +1,14 @@
+User Story C: As a manager of a technology non-profit organization, I want to find the areas that have low internet access so I can focus my team's efforts.
+
+The InternetAccess class processes and analyzes data about Internet access in different countries. Complete the InternetAccess class with:
+
+instance variables to store the data you want to analyze
+
+a constructor to initialize the instance variables
+
+method(s) to analyze the data to find the information needed
+
+
+Possible Extensions: I would like to consider multiple datasets.
+
+Dataset: Internet Usage and Access Worldwide AND/OR Countries and Territories
